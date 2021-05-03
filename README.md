@@ -4,3 +4,4 @@ Hi. This is part of a tutorial series of creating a frontend for a web applicati
 
 Tutorial steps:
 1. [Create initial project and initial components](https://www.podgurschi.com/post/react-expense-manager-1/)
+2. [Creating some Transactions components and testing them](https://www.podgurschi.com/post/react-expense-manager-2/)
